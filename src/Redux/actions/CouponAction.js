@@ -1,6 +1,6 @@
 /** @format */
 import axios from "axios";
-import URI from "../../utils/url";
+import URI from "../../../../utils/url";
 
 // ? create coupon action
 export const CreateCoupon =

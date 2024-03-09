@@ -1,7 +1,6 @@
 /** @format */
-import URI from "../../utils/url";
+import URI from "../../../../utils/url";
 import axios from "axios";
-
 
 export const GetPayments = () => async (dispatch) => {
   try {

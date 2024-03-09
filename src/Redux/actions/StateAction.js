@@ -1,5 +1,5 @@
 /** @format */
-import URI from "../../utils/url";
+import URI from "../../../utils/url";
 import axios from "axios";
 
 // ? getting states

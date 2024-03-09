@@ -1,6 +1,6 @@
 /** @format */
 import axios from "axios";
-import URI from "../../utils/url";
+import URI from "../../../../utils/url";
 
 export const GetMessages = () => async (dispatch) => {
   try {

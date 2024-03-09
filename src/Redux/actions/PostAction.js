@@ -1,5 +1,5 @@
 /** @format */
-import URL from "../../utils/url";
+import URL from "../../../utils/url";
 import axios from "axios";
 
 // ? fetching posts action
