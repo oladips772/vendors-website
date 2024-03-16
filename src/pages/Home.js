@@ -7,6 +7,7 @@ function Home() {
     <div>
       <h1 className="text-red-600">home</h1>
     </div>
+    
   );
 }
 
