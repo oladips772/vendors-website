@@ -2,7 +2,7 @@ import React from 'react'
 
 function ForgotPassword() {
   return (
-    <div className="w-fit min-h-fit mx-auto max-w-[400px] w-full pr-5 pl-3  mt-4 overscroll-none">
+    <div className=" min-h-fit mx-auto max-w-[400px] w-full pr-5 pl-3  mt-4 overscroll-none">
         <div className='flex items-center justify-center'>
         <img src='images\logo.png' className='object-center h-12 rounded-full'/>
         </div>
