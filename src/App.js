@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <FontAwesomeIcon icon="fa-regular fa-user" />
       <BrowserRouter>
-        <Provider store={store}>
+        <Provider>
           <Routes>
             <Route path="/" element={<Home />} />
           </Routes>
