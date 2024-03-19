@@ -5,7 +5,7 @@ import axios from "axios";
 // ? list all new restaurant orders
 export const listOrders = () => async (dispatch) => {
   try {
-    const accessToken =  localStorage.getItem("accessToken");
+    const accessToken = localStorage.getItem("accessToken");
     dispatch({
       type: "ORDER_LIST_REQUEST",
     });
