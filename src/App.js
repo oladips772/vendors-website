@@ -4,9 +4,8 @@ import "./App.css";
 import Home from "./pages/Home";
 import Registration from "./pages/Registration";
 import ResetPassword from "./pages/ResetPassword";
-import ForgotPassword from "./ForgotPassword";
+import ForgotPassword from "./pages/ForgotPassword";
 import Welcome from "./pages/Welcome";
-
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function App() {
