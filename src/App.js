@@ -6,7 +6,9 @@ import Registration from "./pages/Registration";
 import ResetPassword from "./pages/ResetPassword";
 import ForgotPassword from "./ForgotPassword";
 import Welcome from "./pages/Welcome";
-
+import WelcomeBack from "./pages/WelcomeBack"
+import CreateAccount from "./pages/CreateAccount";
+import OtpCode from "./OtpCode"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
@@ -22,8 +24,10 @@ function App() {
           <Route path="/registration" element={<Registration />} /> 
           <Route path="/resetpassword" element={<ResetPassword />} /> 
           <Route path="/forgotpassword" element={<ForgotPassword />} /> 
-          <Route path="/errorcode" element={<ErrorCode />} />
           <Route path="/welcome" element={<Welcome />} />
+          <Route path="welcomeback" element={<WelcomeBack />} />
+          <Route path="createaccount"element={<CreateAccount />} />
+          <Route path="otpcode" element={<OtpCode />} />
         </Routes>
               
       </BrowserRouter>
