@@ -1,4 +1,5 @@
 /**
+ * @format
  * @type {import('tailwindcss').Config}
  */
 

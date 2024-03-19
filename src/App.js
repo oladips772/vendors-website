@@ -11,9 +11,6 @@ import CreateAccount from "./pages/CreateAccount";
 import OtpCode from "./pages/OtpCode"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-
-
-
 function App() {
   return (
     <div className="App">

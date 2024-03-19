@@ -1,11 +1,10 @@
 /** @format */
-
 import React from "react";
 
 function Home() {
   return (
-    <div>
-      <h1 className="text-red-600">home</h1>
+    <div className="">
+      <h1>home page</h1>
     </div>
     
   );
