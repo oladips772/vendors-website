@@ -6,7 +6,7 @@ import Registration from "./pages/Registration";
 import ResetPassword from "./pages/ResetPassword";
 import ForgotPassword from "./ForgotPassword";
 import Welcome from "./pages/Welcome";
-import ErrorCode from "./ErrorCode";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function App() {
