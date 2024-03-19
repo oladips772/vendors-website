@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Registration() {
   return (
-    <div class="w-fit min-h-fit mx-auto max-w-[400px] w-full pr-5 pl-3 border mt-4 overscroll-none"> <FontAwesomeIcon icon="fa-regular fa-user" /> 
+    <div class=" min-h-fit mx-auto max-w-[400px] w-full pr-5 pl-3 border mt-4 overscroll-none"> <FontAwesomeIcon icon="fa-regular fa-user" /> 
         <div mt-3>
             <h3 class='mt-3 font-medium text-[26px]' > Sign up</h3>
         <p className='mb-3 text-[11px] text-gray-500'> Create your account and set up your store.</p> 

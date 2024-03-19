@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ErrorCode() {
+function OtpCode() {
   return (
     <div className=" min-h-fit mx-auto max-w-[400px] w-full pr-5 pl-3  mt-4 overscroll-none ">
       <div className='flex items-center justify-center'>
@@ -32,4 +32,4 @@ function ErrorCode() {
   )
 }
 
-export default ErrorCode
+export default OtpCode
