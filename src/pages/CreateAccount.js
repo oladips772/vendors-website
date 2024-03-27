@@ -17,8 +17,7 @@ function CreateAccount() {
       <p className='text-[9px]'>Phone Number</p>
       <input className='border p-3 border-gray-400 rounded h-[42px] w-full' type="text" /> 
       </div>  
-      <input className='border p-3 border-gray-400 rounded h-[42px]' type="text"  /> 
-      s   
+      <input className='border p-3 border-gray-400 rounded h-[42px]' type="text"  />   
       <input className='border p-3 border-gray-400 rounded h-[42px]' type="password" placeholder='Password' /> 
      </div>
      <button className=' mt-10 text-center w-full text-[13px]  bg-[#fc7a03] text-white h-[47px] flex items-center justify-center  rounded'

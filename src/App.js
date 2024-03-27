@@ -9,6 +9,7 @@ import Welcome from "./pages/Welcome";
 import WelcomeBack from "./pages/WelcomeBack"
 import CreateAccount from "./pages/CreateAccount";
 import OtpCode from "./pages/OtpCode"
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path="welcomeback" element={<WelcomeBack />} />
           <Route path="createaccount"element={<CreateAccount />} />
           <Route path="otpcode" element={<OtpCode />} />
+          
         </Routes>
               
       </BrowserRouter>

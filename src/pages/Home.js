@@ -1,10 +1,14 @@
 /** @format */
 import React from "react";
+import SideBar from "../component/SideBar";
 
 function Home() {
   return (
     <div className="">
-      <h1>home page</h1>
+      <SideBar/>
+
+      
+      
     </div>
     
   );
